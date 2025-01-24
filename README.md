@@ -1,31 +1,30 @@
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 # 💫About Me :
 🔭 **I’m currently working on:**  
-- Developing inventory management software with AI-driven demand forecasting and anomaly detection using TensorFlow.  
+- AI-driven inventory management software with TensorFlow..  
 - Experimenting with transformer architectures like BERT, GPT, and Vision Transformers (ViT) for NLP and computer vision tasks.  
 - Fine-tuning pre-trained models for domain-specific applications in natural language understanding and image recognition.  
 
 👯 **I’m looking to collaborate on:**  
-- Projects involving large-scale natural language processing (NLP) tasks such as sentiment analysis, text summarization, and question-answering systems.  
-- Advanced computer vision applications like object detection, instance segmentation, and facial recognition using frameworks like OpenCV and PyTorch.  
-- Building robust and scalable AI systems leveraging generative models like GANs and diffusion models.  
+- NLP tasks like sentiment analysis, text summarization, and Q&A systems..  
+- Advanced computer vision projects using OpenCV and PyTorch.  
+- Scalable AI systems with GANs and diffusion models.  
 
 🤝 **I’m looking for help with:**  
-- Implementing and optimizing transformer-based architectures for high-dimensional data tasks.  
-- Building end-to-end pipelines for production-ready AI/ML solutions, including MLOps and CI/CD workflows.  
-- Mastering advanced topics like zero-shot learning, multi-modal AI, and reinforcement learning.  
-
+- Optimizing transformer models for high-dimensional data.
+- Building production-ready AI/ML pipelines with MLOps.  
+- Mastering zero-shot learning, multi-modal AI, and reinforcement learning.
 🌱 **I’m currently learning:**  
-- Advanced NLP concepts, including semantic similarity, embeddings, and transformer-based models like BERT, T5, and GPT.  
+- Advanced NLP (BERT, GPT, T5) and efficient vision techniques (YOLOv8, ViT).  
 - Techniques for efficient computer vision tasks, such as YOLOv8 and Vision Transformers (ViT).  
-- AI deployment strategies with TensorFlow Serving, ONNX, and Kubernetes for real-time inference.  
-
+- AI deployment with TensorFlow Serving, ONNX, and Kubernetes.
 💬 **Ask me about:**  
-- My experience fine-tuning BERT and GPT models for NLP tasks and creating innovative solutions in computer vision.  
-- How I incorporate explainable AI (XAI) techniques to make ML models more interpretable and trustworthy.  
-- Insights from my participation in hackathons, including developing sustainable AI solutions.  
+- Fine-tuning transformers for NLP and innovative computer vision solutions.  
+- Applying explainable AI (XAI) to enhance model trustworthiness.
+- Hackathon insights and sustainable AI projects.  
 
 ⚡ **Fun fact:**  
-I recently built an AI-powered Snake Game where the difficulty adapts dynamically using reinforcement learning principles, and I’m exploring integrating GPT-4 for personalized gameplay instructions!
+I once trained a chatbot to write dad jokes, and it became so good that even I couldn't stop laughing—proof that AI can have a "pun-ishing" sense of humor!
 
 
 ## 🌐Socials
@@ -41,8 +40,6 @@ I recently built an AI-powered Snake Game where the difficulty adapts dynamicall
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=Jagtap-Atharva&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
----
 [![](https://visitcount.itsvg.in/api?id=Jagtap-Atharva&icon=0&color=0)](https://visitcount.itsvg.in)
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
