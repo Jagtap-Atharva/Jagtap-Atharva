@@ -30,7 +30,7 @@
 - Fine-tuning transformers & computer vision solutions.
 - Explainable AI (XAI) for trustworthy models.
 - Hackathons & sustainable AI projects.  
-
+<br>
 ⚡ **Fun fact:**  
 I once trained a chatbot to write dad jokes, and it became so good that even I couldn't stop laughing—proof that AI can have a "pun-ishing" sense of humor!
 
