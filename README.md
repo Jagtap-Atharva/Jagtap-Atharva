@@ -18,9 +18,10 @@
 - Scalable AI systems with GANs and diffusion models.  
 
 🤝 **I’m looking for help with:**  
-- Optimizing transformer models for high-dimensional data.
-- Building production-ready AI/ML pipelines with MLOps.  
-- Mastering zero-shot learning, multi-modal AI, and reinforcement learning.
+- Optimizing transformers for high-dimensional data.
+- Building AI/ML pipelines with MLOps..  
+- Mastering zero-shot learning and multi-modal AI.
+<br>
 🌱 **I’m currently learning:**  
 - Advanced NLP (BERT, GPT, T5) and efficient vision techniques (YOLOv8, ViT).  
 - Techniques for efficient computer vision tasks, such as YOLOv8 and Vision Transformers (ViT).  
