@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 
-<h1 align="center">Hi 👋, I'm Deven</h1> 
+<h1 align="center">Hi 👋, I'm Atharva</h1> 
 <h3 align="start"></h3>
 # 💫About Me :
 <img align="right" alt="procoder" src="https://github.com/user-attachments/assets/0bf134e2-c0ba-488b-bbd4-9300f2f77871" width="400"/>
