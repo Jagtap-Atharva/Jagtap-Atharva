@@ -2,8 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Atharva</h1> 
 <h3 align="start"></h3>
-# 💫About Me :
+
+# 💫 About Me:
+
 <img align="right" alt="procoder" src="https://github.com/user-attachments/assets/0bf134e2-c0ba-488b-bbd4-9300f2f77871" width="400"/>
+
 🔭 **I’m currently working on:**  
 - AI-driven inventory management software with TensorFlow..  
 - Experimenting with transformer architectures like BERT, GPT, and Vision Transformers (ViT) for NLP and computer vision tasks.  
