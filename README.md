@@ -22,11 +22,7 @@
 - Building AI/ML pipelines with MLOps..  
 - Mastering zero-shot learning and multi-modal AI.
 <br>
-🌱 **I’m currently learning:**  
-- Advanced NLP (BERT, GPT, T5) & vision techniques (YOLOv8, ViT).
-- AI deployment with TensorFlow Serving, ONNX & Kubernetes.
-<br>
-💬 **Ask me about:**  
+💬 <b>Ask me about:</b>  
 - Fine-tuning transformers & computer vision solutions.
 - Explainable AI (XAI) for trustworthy models.
 - Hackathons & sustainable AI projects.  
