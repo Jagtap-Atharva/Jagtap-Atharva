@@ -20,10 +20,12 @@
 🤝 **I’m looking for help with:**  
 - Optimizing transformers for high-dimensional data.
 - Building AI/ML pipelines with MLOps..  
-- Mastering zero-shot learning and multi-modal AI.<br>
+- Mastering zero-shot learning and multi-modal AI.
+<br>
 🌱 **I’m currently learning:**  
 - Advanced NLP (BERT, GPT, T5) & vision techniques (YOLOv8, ViT).
-- AI deployment with TensorFlow Serving, ONNX & Kubernetes.<br>
+- AI deployment with TensorFlow Serving, ONNX & Kubernetes.
+<br>
 💬 **Ask me about:**  
 - Fine-tuning transformers & computer vision solutions.
 - Explainable AI (XAI) for trustworthy models.
